@@ -1,0 +1,1947 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Building_A" id="Building_A">
+	<SimpleField name="BDTABLEIDFK" type="float"></SimpleField>
+	<SimpleField name="buildingIdpk" type="string"></SimpleField>
+	<SimpleField name="coordinateX" type="float"></SimpleField>
+	<SimpleField name="coordinateY" type="float"></SimpleField>
+	<SimpleField name="created_date" type="string"></SimpleField>
+	<SimpleField name="created_user" type="string"></SimpleField>
+	<SimpleField name="facilityNumber" type="string"></SimpleField>
+	<SimpleField name="featureArea" type="float"></SimpleField>
+	<SimpleField name="featureAreaUom" type="string"></SimpleField>
+	<SimpleField name="featureDescription" type="string"></SimpleField>
+	<SimpleField name="featureHeight" type="float"></SimpleField>
+	<SimpleField name="featureHeightUom" type="string"></SimpleField>
+	<SimpleField name="featureName" type="string"></SimpleField>
+	<SimpleField name="featurePerimeter" type="float"></SimpleField>
+	<SimpleField name="featurePerimeterUom" type="string"></SimpleField>
+	<SimpleField name="INSPC_DATE_BD" type="float"></SimpleField>
+	<SimpleField name="installationId" type="string"></SimpleField>
+	<SimpleField name="isHeritageAsset" type="string"></SimpleField>
+	<SimpleField name="last_edited_date" type="string"></SimpleField>
+	<SimpleField name="last_edited_user" type="string"></SimpleField>
+	<SimpleField name="materialType" type="string"></SimpleField>
+	<SimpleField name="mediaId" type="string"></SimpleField>
+	<SimpleField name="metadataId" type="string"></SimpleField>
+	<SimpleField name="operationalStatus" type="string"></SimpleField>
+	<SimpleField name="proposedDemolitionDate" type="string"></SimpleField>
+	<SimpleField name="rpaConstructionType" type="string"></SimpleField>
+	<SimpleField name="rpaPredomCurrentUseCatCode" type="string"></SimpleField>
+	<SimpleField name="rpInterest" type="string"></SimpleField>
+	<SimpleField name="rpsuid" type="int"></SimpleField>
+	<SimpleField name="rpuid" type="string"></SimpleField>
+	<SimpleField name="SDSFIE_PRE_MIG_FCName" type="string"></SimpleField>
+	<SimpleField name="SDSFIE_PRE_MIG_OBJECTID" type="int"></SimpleField>
+	<SimpleField name="sdsId" type="string"></SimpleField>
+	<SimpleField name="SOURCENAME" type="string"></SimpleField>
+	<SimpleField name="userOrganizationName" type="string"></SimpleField>
+	<SimpleField name="Shape_Length" type="float"></SimpleField>
+	<SimpleField name="Shape_Area" type="float"></SimpleField>
+</Schema>
+<Folder><name>Building_A</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">48</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765247.08335</SimpleData>
+		<SimpleData name="coordinateY">3836168.9685</SimpleData>
+		<SimpleData name="facilityNumber">60</SimpleData>
+		<SimpleData name="featureArea">131.069883667919</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">WATER SUPPLY/TREATMENT BUILDING, POTABLE</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">46.0355082484628</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">89141</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268982</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">25</SimpleData>
+		<SimpleData name="sdsId">{3D4F6773-E38B-404D-A2FB-4FD6B386D16C}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">46.0355082484628</SimpleData>
+		<SimpleData name="Shape_Area">131.069883667919</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1064492209319,34.6331083722316 -84.10654941846,34.6330658548941 -84.1066125727472,34.6331675364743 -84.1065123751214,34.6332100538587 -84.1064492209319,34.6331083722316</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">50</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765134.54525</SimpleData>
+		<SimpleData name="coordinateY">3836040.7401</SimpleData>
+		<SimpleData name="facilityNumber"></SimpleData>
+		<SimpleData name="featureArea">14.6631204608734</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">17.0711760873251</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">temporary</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">27</SimpleData>
+		<SimpleData name="sdsId">{B4900033-C697-489F-BFF6-12DE8D0BF3F8}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">17.0711760873251</SimpleData>
+		<SimpleData name="Shape_Area">14.6631204608734</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1077764142651,34.6319879601341 -84.1078015946967,34.6319826716555 -84.1078181091088,34.6320363969661 -84.1077929286616,34.6320416854473 -84.1077764142651,34.6319879601341</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">54</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765378.90014885</SimpleData>
+		<SimpleData name="coordinateY">3834888.99441757</SimpleData>
+		<SimpleData name="facilityNumber">46</SimpleData>
+		<SimpleData name="featureArea">230.372407423917</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">RANGE OPERATIONS AND STORAGE BUILDING</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">63.7705814884543</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">17122</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268149</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">31</SimpleData>
+		<SimpleData name="sdsId">{269F47A4-AD71-4D2D-8D0C-7DE59E8C242E}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">63.7705814884543</SimpleData>
+		<SimpleData name="Shape_Area">230.372407423917</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.105396641747,34.6215077620613 -84.1055083221416,34.6214701429037 -84.1055939529755,34.6216438731077 -84.1054822724063,34.6216814914325 -84.105396641747,34.6215077620613</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">55</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765394.38875</SimpleData>
+		<SimpleData name="coordinateY">3834853.2285</SimpleData>
+		<SimpleData name="facilityNumber">43</SimpleData>
+		<SimpleData name="featureArea">56.2156793006843</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">SEPARATE TOILET/SHOWER BUILDING</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">30.0197140648269</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">73075</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269161</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">32</SimpleData>
+		<SimpleData name="sdsId">{33428F7C-20BD-4003-BB7C-24588C05415C}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">30.0197140648269</SimpleData>
+		<SimpleData name="Shape_Area">56.2156793006843</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1052811611026,34.6212598063831 -84.1053305036334,34.6212022004333 -84.105394333021,34.6212395645784 -84.1053449905084,34.6212971705548 -84.1052811611026,34.6212598063831</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">56</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765711.818429828</SimpleData>
+		<SimpleData name="coordinateY">3835597.05585697</SimpleData>
+		<SimpleData name="facilityNumber"></SimpleData>
+		<SimpleData name="featureArea">6.44816230287306</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">10.1578849180229</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">33</SimpleData>
+		<SimpleData name="sdsId">{10B7E59B-925B-4FBA-92B6-4A6192DC6C77}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">10.1578849180229</SimpleData>
+		<SimpleData name="Shape_Area">6.44816230287306</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1016287709795,34.6278738944738 -84.1016380404102,34.6278520723806 -84.101663875148,34.6278595706692 -84.1016546068126,34.6278813927905 -84.1016287709795,34.6278738944738</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">57</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765706.97125</SimpleData>
+		<SimpleData name="coordinateY">3835598.4779</SimpleData>
+		<SimpleData name="facilityNumber"></SimpleData>
+		<SimpleData name="featureArea">1.68700506052521</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">5.27143187088998</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">34</SimpleData>
+		<SimpleData name="sdsId">{26B2F663-7C38-40C6-91FB-E7C7601C6EDA}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">5.27143187088998</SimpleData>
+		<SimpleData name="Shape_Area">1.68700506052521</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1016887863303,34.6278831403662 -84.1016927533451,34.6278738368379 -84.1017085940851,34.6278784518743 -84.1017046270717,34.6278877554032 -84.1016887863303,34.6278831403662</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">58</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765696.271380196</SimpleData>
+		<SimpleData name="coordinateY">3835592.146307</SimpleData>
+		<SimpleData name="facilityNumber"></SimpleData>
+		<SimpleData name="featureArea">1.29824363937648</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">4.5593891992414</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">35</SimpleData>
+		<SimpleData name="sdsId">{B61C1810-0AEA-45CD-8E5B-383F3D73D376}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">4.5593891992414</SimpleData>
+		<SimpleData name="Shape_Area">1.29824363937648</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1018093360751,34.6278296938294 -84.1018138917248,34.6278198319132 -84.1018251750506,34.6278233930022 -84.1018206204915,34.6278332549447 -84.1018093360751,34.6278296938294</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">67</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765350.257173047</SimpleData>
+		<SimpleData name="coordinateY">3835579.25357332</SimpleData>
+		<SimpleData name="facilityNumber">2</SimpleData>
+		<SimpleData name="featureArea">359.560310258554</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">FIRE STATION</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">FIRE STATION</SimpleData>
+		<SimpleData name="featurePerimeter">94.606028901865</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">73010</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268938</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">44</SimpleData>
+		<SimpleData name="sdsId">{686C24F1-566A-4793-AF39-059F35B338F1}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">94.606028901865</SimpleData>
+		<SimpleData name="Shape_Area">359.560310258554</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1055891627447,34.627974687181 -84.1055253761645,34.6277521941011 -84.1055177685864,34.6277536845983 -84.1054891437002,34.6276538366631 -84.1056008976654,34.6276319441401 -84.1056293505531,34.6277311912484 -84.1056252772449,34.6277319886898 -84.1056892372725,34.6279550834643 -84.1056775321462,34.6279576601843 -84.1055891627447,34.627974687181</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">69</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765419.247742765</SimpleData>
+		<SimpleData name="coordinateY">3835551.24615022</SimpleData>
+		<SimpleData name="facilityNumber">62</SimpleData>
+		<SimpleData name="featureArea">116.728865897789</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">SEPARATE TOILET/SHOWER BUILDING</SimpleData>
+		<SimpleData name="featurePerimeter">52.3322222250444</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">Disposed</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268984</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">46</SimpleData>
+		<SimpleData name="sdsId">{927A662B-95BE-422D-BEAA-B3A6CA6B3131}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">52.3322222250444</SimpleData>
+		<SimpleData name="Shape_Area">116.728865897789</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1048717113357,34.6276160216475 -84.1048590600397,34.6275896069834 -84.1048381195091,34.6275964603618 -84.1047854984081,34.6274865920843 -84.1048039516317,34.6274805530727 -84.1047945415028,34.6274609046035 -84.1047920039333,34.6274556063523 -84.1048352791211,34.6274414432695 -84.1048468608624,34.6274656250275 -84.1048552701549,34.6274628727433 -84.1049082013583,34.627573390148 -84.1049013859054,34.6275756205345 -84.1049140920415,34.627602151875 -84.1048934724857,34.627608900214 -84.1048717113357,34.6276160216475</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">70</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765418.74475</SimpleData>
+		<SimpleData name="coordinateY">3835447.08455</SimpleData>
+		<SimpleData name="facilityNumber"></SimpleData>
+		<SimpleData name="featureArea">15.1110802950105</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">16.9004877661556</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">47</SimpleData>
+		<SimpleData name="sdsId">{B5A0C779-86FF-4FF2-8377-5F0746B0EF26}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">16.9004877661556</SimpleData>
+		<SimpleData name="Shape_Area">15.1110802950105</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1048539595092,34.6266025516755 -84.1048991431554,34.6265649698394 -84.1049190095463,34.6265812908728 -84.1048738258991,34.6266188727161 -84.1048539595092,34.6266025516755</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">71</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765458.185891483</SimpleData>
+		<SimpleData name="coordinateY">3835447.51673254</SimpleData>
+		<SimpleData name="facilityNumber">47</SimpleData>
+		<SimpleData name="featureArea">483.923768725923</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">RECREATION CENTER</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">RECREATION CENTER</SimpleData>
+		<SimpleData name="featurePerimeter">120.925289939323</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">74068</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268150</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">48</SimpleData>
+		<SimpleData name="sdsId">{BD873E33-BBBA-4F92-8694-D919D0E83C29}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">120.925289939323</SimpleData>
+		<SimpleData name="Shape_Area">483.923768725923</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1044060223805,34.6266025618867 -84.1044002887188,34.6265915260714 -84.1043587837704,34.6265116342052 -84.1045669013359,34.6264377549274 -84.1045975665782,34.6264967843648 -84.1045845805699,34.6265013938335 -84.1045962461223,34.6265238496417 -84.1045373540887,34.6265447562985 -84.1045409915563,34.6265517572682 -84.1045278630755,34.6265564183305 -84.1045344981375,34.6265691908979 -84.1045960476581,34.6265473414269 -84.1046103675297,34.6265749044637 -84.1045477271835,34.6265971408623 -84.1045708049059,34.6266415624189 -84.1044597190271,34.6266814679255 -84.1044418530151,34.6266873387601 -84.1043224743976,34.6267297161282 -84.1042797114179,34.6266474002584 -84.1044060223805,34.6266025618867</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">72</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765434.31035</SimpleData>
+		<SimpleData name="coordinateY">3835401.5769</SimpleData>
+		<SimpleData name="facilityNumber">44</SimpleData>
+		<SimpleData name="featureArea">313.610086508953</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">PHYSICAL FITNESS CENTER</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">PHYSICAL FITNESS CENTER</SimpleData>
+		<SimpleData name="featurePerimeter">75.6470849034157</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">74028</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269162</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">49</SimpleData>
+		<SimpleData name="sdsId">{A3E6EC6F-57A0-418F-97F9-A4319B3A2535}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">75.6470849034157</SimpleData>
+		<SimpleData name="Shape_Area">313.610086508953</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1046577957255,34.6260656477466 -84.1047914459424,34.6260604695356 -84.1048044844486,34.6262904125794 -84.1046708338611,34.6262955907862 -84.1046577957255,34.6260656477466</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">73</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765519.021665609</SimpleData>
+		<SimpleData name="coordinateY">3835517.26386328</SimpleData>
+		<SimpleData name="facilityNumber">33</SimpleData>
+		<SimpleData name="featureArea">659.475673398045</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">COMPANY HEADQUARTERS BUIDLING</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">COMPANY HEADQUARTERS BUIDLING</SimpleData>
+		<SimpleData name="featurePerimeter">177.751735735606</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">14185</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269152</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">50</SimpleData>
+		<SimpleData name="sdsId">{A15F80BC-B012-4515-9BD7-2E35A5D37710}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">177.751735735606</SimpleData>
+		<SimpleData name="Shape_Area">659.475673398045</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1037147401132,34.6273794723798 -84.1035410659837,34.6271071549082 -84.1036213356623,34.6270721741352 -84.1037568149076,34.6272846014868 -84.1038649082499,34.6272374955607 -84.1037288621625,34.6270241787029 -84.1038101215283,34.62698876702 -84.1039824999815,34.6272583509769 -84.1039841310997,34.6272617744496 -84.1039552635555,34.6272749464364 -84.1039372993907,34.6272832900725 -84.1039073460034,34.6272963605284 -84.1037925085804,34.6273460257146 -84.1037631947406,34.6273587030028 -84.1037441337523,34.6273669466305 -84.1037147401132,34.6273794723798</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">74</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765503.733687648</SimpleData>
+		<SimpleData name="coordinateY">3835412.37224112</SimpleData>
+		<SimpleData name="facilityNumber">45</SimpleData>
+		<SimpleData name="featureArea">162.827580633523</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">STORAGE BUILDING, GENERAL PURPOSE, INSTALLATION</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">STORAGE BUILDING, GENERAL PURPOSE, INSTALLATION</SimpleData>
+		<SimpleData name="featurePerimeter">60.1361707437897</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">44220</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268148</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">51</SimpleData>
+		<SimpleData name="sdsId">{4294B7FE-9289-490E-A697-3CB886381646}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">60.1361707437897</SimpleData>
+		<SimpleData name="Shape_Area">162.827580633523</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1039242555755,34.626156141703 -84.1040012650891,34.6261517592349 -84.1040184720583,34.6263583796726 -84.1039957750653,34.626359777437 -84.1039414623841,34.6263627612414 -84.1039242555755,34.626156141703</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">75</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765554.61549707</SimpleData>
+		<SimpleData name="coordinateY">3835419.04239648</SimpleData>
+		<SimpleData name="facilityNumber">42</SimpleData>
+		<SimpleData name="featureArea">1056.29426229987</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">PHYSICAL FITNESS CENTER</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">PHYSICAL FITNESS CENTER</SimpleData>
+		<SimpleData name="featurePerimeter">162.207418810973</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">74028</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269160</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">52</SimpleData>
+		<SimpleData name="sdsId">{D4DA41DB-9C5B-40F2-A0E9-133021CABF91}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">162.207418810973</SimpleData>
+		<SimpleData name="Shape_Area">1056.29426229987</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1034941885668,34.6264503069025 -84.1034809607008,34.6264478544353 -84.10342753814,34.6264366875341 -84.1034216804836,34.6264562770061 -84.1032324506125,34.6264176096848 -84.1032499606402,34.6263590552338 -84.1032259270407,34.6263541438171 -84.1033094858764,34.6260747262819 -84.1035235043395,34.6261184588795 -84.103464444938,34.6263159565583 -84.1036426697305,34.626352374422 -84.1035924074328,34.6265204498788 -84.1034800770379,34.6264974963308 -84.1034941885668,34.6264503069025</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">76</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765556.784883061</SimpleData>
+		<SimpleData name="coordinateY">3835537.86080001</SimpleData>
+		<SimpleData name="facilityNumber">31</SimpleData>
+		<SimpleData name="featureArea">620.952287010821</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">COMPANY HEADQUARTERS BUIDLING</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">COMPANY HEADQUARTERS BUIDLING</SimpleData>
+		<SimpleData name="featurePerimeter">139.45322485395</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">14185</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269151</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">53</SimpleData>
+		<SimpleData name="sdsId">{EEAB01EF-1401-4F4B-9F7C-D355219A5F0E}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">139.45322485395</SimpleData>
+		<SimpleData name="Shape_Area">620.952287010821</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1035695587175,34.6275451334075 -84.103520099085,34.6275166963667 -84.103300507457,34.627390440721 -84.1032972022303,34.6273886558348 -84.1032724048244,34.6273748782388 -84.1032177409886,34.6274400698762 -84.1031131617331,34.6273801512823 -84.1032676662882,34.6271958905177 -84.1033732001772,34.6272563562738 -84.1033352541738,34.6273016099848 -84.1036314520965,34.6274713185725 -84.1035695587175,34.6275451334075</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">77</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765546.172053051</SimpleData>
+		<SimpleData name="coordinateY">3835577.6015157</SimpleData>
+		<SimpleData name="facilityNumber">29</SimpleData>
+		<SimpleData name="featureArea">306.359886028991</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">STORAGE BUILDING, GENERAL PURPOSE, INSTALLATION</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">86.1564907040273</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">44220</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269150</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">54</SimpleData>
+		<SimpleData name="sdsId">{CCF9F17A-33D0-419C-93DC-57E72F4361D4}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">86.1564907040273</SimpleData>
+		<SimpleData name="Shape_Area">306.359886028991</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1032766842755,34.6276796374641 -84.1033325861742,34.6276134034802 -84.1033361359544,34.6276153996946 -84.1036049549619,34.6277701453894 -84.1036375560668,34.6277892778403 -84.1035816553617,34.6278555119947 -84.1032766842755,34.6276796374641</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">78</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765556.26492569</SimpleData>
+		<SimpleData name="coordinateY">3835592.28030498</SimpleData>
+		<SimpleData name="facilityNumber">25</SimpleData>
+		<SimpleData name="featureArea">386.123629928554</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">COMMISSARY</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">COMMISSARY</SimpleData>
+		<SimpleData name="featurePerimeter">104.575329689712</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">SEMI</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">74021</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269147</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">55</SimpleData>
+		<SimpleData name="sdsId">{CCAD02DA-81E7-498D-BBCA-8AA04871A207}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">96.0432015231682</SimpleData>
+		<SimpleData name="Shape_Area">386.123629928554</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1034546560029,34.6279981364105 -84.1031577023415,34.627823999809 -84.103210752952,34.6277621843237 -84.1032744278002,34.6277995243523 -84.1033136309372,34.6277538444468 -84.1034636395812,34.6278418112298 -84.1034293004694,34.6278820830802 -84.103424728218,34.6278874115856 -84.1035078486067,34.6279361547077 -84.1034546560029,34.6279981364105</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">79</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765482.546218918</SimpleData>
+		<SimpleData name="coordinateY">3835559.26319155</SimpleData>
+		<SimpleData name="facilityNumber">40</SimpleData>
+		<SimpleData name="featureArea">980.283637230307</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">DINING FACILITY</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">DINING FACILITY</SimpleData>
+		<SimpleData name="featurePerimeter">145.045731495581</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">72210</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269159</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">56</SimpleData>
+		<SimpleData name="sdsId">{1E7BAF9D-860B-49A9-8C88-2C5368F29C3F}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">161.884075514399</SimpleData>
+		<SimpleData name="Shape_Area">980.283637230307</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.104121323805,34.6277423376075 -84.1041096226488,34.6277190236896 -84.1040654503231,34.6277341738427 -84.1040306658738,34.6276648751304 -84.1039884889123,34.6276793407424 -84.103978701911,34.627659841904 -84.1038738571993,34.6276936025396 -84.1038275171507,34.6276053722376 -84.1039945065307,34.6275475033397 -84.1043984956207,34.6274089447042 -84.1044542291892,34.6275199795658 -84.1042699233233,34.6275831921321 -84.1043162480259,34.6276754835697 -84.104121323805,34.6277423376075</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">84</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765602.63765</SimpleData>
+		<SimpleData name="coordinateY">3835437.5088</SimpleData>
+		<SimpleData name="facilityNumber">28</SimpleData>
+		<SimpleData name="featureArea">106.47610670518</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">VEHICLE STORAGE SHED, INSTALLATION</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">VEHICLE STORAGE SHED, INSTALLATION</SimpleData>
+		<SimpleData name="featurePerimeter">42.0694130178943</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">SEMI</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">44262</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269149</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">61</SimpleData>
+		<SimpleData name="sdsId">{3508E624-BD9C-4DC7-A0E6-1CDECA5B7CED}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">42.0694130178943</SimpleData>
+		<SimpleData name="Shape_Area">106.47610670518</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.102804236024,34.6264681260574 -84.1028441553203,34.6263991831561 -84.1029675605972,34.6264480080773 -84.1029276413738,34.6265169510225 -84.102804236024,34.6264681260574</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">85</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765583.680356369</SimpleData>
+		<SimpleData name="coordinateY">3835561.78902844</SimpleData>
+		<SimpleData name="facilityNumber">27</SimpleData>
+		<SimpleData name="featureArea">371.78766432104</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">HEALTH CLINIC</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">HEALTH CLINIC</SimpleData>
+		<SimpleData name="featurePerimeter">95.456149833607</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">55010</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269148</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">62</SimpleData>
+		<SimpleData name="sdsId">{0F47B248-A787-4FBF-90BF-3E3DB8050C75}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">95.456149833607</SimpleData>
+		<SimpleData name="Shape_Area">371.78766432104</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.103010079173,34.6277019519889 -84.1029232875469,34.6276515222071 -84.1029977497888,34.6275639565495 -84.1029353975036,34.627527726783 -84.1029950188251,34.6274576134607 -84.1031074070128,34.6275223851586 -84.1031197223484,34.6275300719746 -84.1031347427935,34.6275124075459 -84.1031737429647,34.627535067916 -84.1031633102265,34.6275473357159 -84.103177917139,34.6275558224428 -84.1031729565235,34.627561657302 -84.1032081312818,34.627582095854 -84.1031488476998,34.6276518125867 -84.1031109142109,34.6276297715769 -84.1030757069607,34.6276711737637 -84.1030492999616,34.6276558300087 -84.103010079173,34.6277019519889</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">87</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765788.178105629</SimpleData>
+		<SimpleData name="coordinateY">3835548.63543724</SimpleData>
+		<SimpleData name="facilityNumber">MtVionChu</SimpleData>
+		<SimpleData name="featureArea">183.114955686795</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">58.468201938708</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">64</SimpleData>
+		<SimpleData name="sdsId">{2DB2ED2D-D03D-4BC1-AF0A-695E1EA8F6C8}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">58.468201938708</SimpleData>
+		<SimpleData name="Shape_Area">183.114955686795</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1008775798034,34.6274970418135 -84.1008591200915,34.627480143359 -84.1008510940555,34.6274861350532 -84.1008441629764,34.6274913081935 -84.100754835146,34.6274092211345 -84.1007215953457,34.6273791100616 -84.1008019136059,34.6273191566983 -84.1008881146675,34.6273971834079 -84.1008962300742,34.6274048183103 -84.1009227196408,34.6274297417283 -84.1009100262483,34.6274392171359 -84.1009302476222,34.6274577277051 -84.1009149388862,34.627469345695 -84.1008952854557,34.6274842621696 -84.1008775798034,34.6274970418135</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">88</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765709.05795</SimpleData>
+		<SimpleData name="coordinateY">3835650.96645</SimpleData>
+		<SimpleData name="facilityNumber"></SimpleData>
+		<SimpleData name="featureArea">8.36470728419421</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">11.8210816215224</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">65</SimpleData>
+		<SimpleData name="sdsId">{D28AC2BB-FC70-4E0D-A0B8-28E30DF2E9D3}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">11.8210816215224</SimpleData>
+		<SimpleData name="Shape_Area">8.36470728419421</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1016362590386,34.6283523795252 -84.1016510126937,34.6283350938415 -84.1016827433582,34.6283535994749 -84.1016679897057,34.6283708851625 -84.1016362590386,34.6283523795252</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">89</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765695.499429576</SimpleData>
+		<SimpleData name="coordinateY">3835661.11964631</SimpleData>
+		<SimpleData name="facilityNumber">4</SimpleData>
+		<SimpleData name="featureArea">61.4942179943284</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">PRIVATE/ORGANIZATIONAL CLUB BUILDING</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">UNACCOMPANIED OFFICERS QUARTERS, MILITARY</SimpleData>
+		<SimpleData name="featurePerimeter">32.5149740775407</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">SEMI</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">74085</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268940</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">66</SimpleData>
+		<SimpleData name="sdsId">{1B641DFC-BE78-47A2-B3B0-94D28160E044}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">32.5149740775407</SimpleData>
+		<SimpleData name="Shape_Area">61.4942179943284</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1017422969494,34.6284317364456 -84.1018515271931,34.6284115081576 -84.1018657966745,34.6284641568202 -84.1017565674528,34.6284843851435 -84.1017422969494,34.6284317364456</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">90</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765680.537661819</SimpleData>
+		<SimpleData name="coordinateY">3835657.29027862</SimpleData>
+		<SimpleData name="facilityNumber">5</SimpleData>
+		<SimpleData name="featureArea">68.3564191261938</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">CHAPEL</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">UNACCOMPANIED OFFICERS QUARTERS, MILITARY</SimpleData>
+		<SimpleData name="featurePerimeter">36.4093085969352</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">SEMI</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">73017</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268941</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">67</SimpleData>
+		<SimpleData name="sdsId">{8D22C854-9037-443F-9338-42E986797DF2}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">36.4093085969352</SimpleData>
+		<SimpleData name="Shape_Area">68.3564191261938</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1018999259301,34.6284028718055 -84.1020119087619,34.6283813179855 -84.1020152192718,34.6283930723815 -84.1020329698872,34.6283896554566 -84.1020407410972,34.6284172451381 -84.1020228225507,34.6284206932249 -84.1020265330367,34.6284338641978 -84.1019147191824,34.6284553859921 -84.1018999259301,34.6284028718055</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">91</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765657.502254765</SimpleData>
+		<SimpleData name="coordinateY">3835636.75951846</SimpleData>
+		<SimpleData name="facilityNumber"></SimpleData>
+		<SimpleData name="featureArea">4.31195341517387</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">8.30861518444175</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">68</SimpleData>
+		<SimpleData name="sdsId">{0E941F46-3594-4C3F-BD56-77EB709B31B2}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">8.30861518444175</SimpleData>
+		<SimpleData name="Shape_Area">4.31195341517387</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1022105365166,34.6282426887253 -84.1022212403987,34.6282256753444 -84.102240832941,34.6282340986466 -84.1022301290929,34.6282511111288 -84.1022105365166,34.6282426887253</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">92</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765634.46183007</SimpleData>
+		<SimpleData name="coordinateY">3835611.56160099</SimpleData>
+		<SimpleData name="facilityNumber">10</SimpleData>
+		<SimpleData name="featureArea">351.696691163622</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">UNACCOMPANIED PERSONNEL HOUSING, SENIOR NCO</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">UNACCOMPANIED PERSONNEL HOUSING, SENIOR NCO</SimpleData>
+		<SimpleData name="featurePerimeter">110.058227588938</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">72170</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268944</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">69</SimpleData>
+		<SimpleData name="sdsId">{B1541BB2-03CB-49F1-915A-FC050C6179C0}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">110.058227588938</SimpleData>
+		<SimpleData name="Shape_Area">351.696691163622</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1026049950183,34.6281109521633 -84.1025014498016,34.6280774664853 -84.1024972456538,34.6280863479629 -84.1024765935651,34.6280796689361 -84.1024811001688,34.6280701492564 -84.1024410630431,34.6280572008028 -84.1024370930422,34.6280655893775 -84.1024161271619,34.6280588091359 -84.1024204113921,34.6280497574002 -84.1023783631962,34.6280361589855 -84.1023739270961,34.6280455325099 -84.1023535133139,34.6280389312396 -84.1023580965164,34.6280292475305 -84.102333123601,34.6280211713557 -84.102328787568,34.6280303327272 -84.1023076136158,34.6280234844231 -84.102312435678,34.6280132980121 -84.1022811190034,34.6280031699693 -84.1023153529143,34.6279308398995 -84.1025512125903,34.6280071163179 -84.1025801051487,34.6279460707532 -84.1026521512416,34.6279693708938 -84.1026408510153,34.6279932477298 -84.1026521723613,34.6279969088 -84.1026438428404,34.6280145086854 -84.1026329776122,34.6280109954689 -84.1026226601676,34.6280327954329 -84.1026405496088,34.6280385803816 -84.1026364901476,34.6280471588323 -84.1026501072604,34.6280515622404 -84.1026329162377,34.6280878851114 -84.1026181701347,34.6280831159392 -84.1026049950183,34.6281109521633</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">93</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765676.183662342</SimpleData>
+		<SimpleData name="coordinateY">3835596.05882528</SimpleData>
+		<SimpleData name="facilityNumber">11</SimpleData>
+		<SimpleData name="featureArea">342.296909467615</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">EXCHANGE BRANCH</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">EXCHANGE BRANCH</SimpleData>
+		<SimpleData name="featurePerimeter">98.1010741230996</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">74050</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268945</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">70</SimpleData>
+		<SimpleData name="sdsId">{802D713E-0DC7-4452-86F9-4F0CB199296B}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">98.1010741230996</SimpleData>
+		<SimpleData name="Shape_Area">342.296909467615</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1021562178612,34.6279629034763 -84.1019907632525,34.6279055133727 -84.1019839204596,34.6279189922628 -84.1019230261448,34.6278978705607 -84.1019309331957,34.6278822933117 -84.1018394371709,34.6278505574575 -84.1018768707594,34.6277768181193 -84.102110023431,34.6278576902754 -84.1021381847816,34.6278022160402 -84.1022081695567,34.6278264905001 -84.1022033548707,34.6278366842936 -84.1021975602411,34.6278483087253 -84.1021784815621,34.6278849742428 -84.1021931877087,34.6278900751289 -84.1021562178612,34.6279629034763</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">94</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765605.3769653</SimpleData>
+		<SimpleData name="coordinateY">3835592.25565268</SimpleData>
+		<SimpleData name="facilityNumber">15</SimpleData>
+		<SimpleData name="featureArea">55.0019514608272</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">MUSEUM</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">31.3124630964312</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">76010</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269144</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">71</SimpleData>
+		<SimpleData name="sdsId">{BFBBCC78-DD55-4856-AFBB-A93CAAC1D597}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">31.3124630964312</SimpleData>
+		<SimpleData name="Shape_Area">55.0019514608272</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1027451955929,34.6278419019381 -84.1027803851547,34.6278037732751 -84.102869936956,34.6278602476808 -84.102834746318,34.6278983763443 -84.1027451955929,34.6278419019381</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">97</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765537.744441097</SimpleData>
+		<SimpleData name="coordinateY">3835652.59269983</SimpleData>
+		<SimpleData name="facilityNumber">13</SimpleData>
+		<SimpleData name="featureArea">364.986745874129</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">GENERAL INSTRUCTION BUILDING</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">GENERAL INSTRUCTION BUILDING</SimpleData>
+		<SimpleData name="featurePerimeter">95.3199429619286</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">17120</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268947</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">74</SimpleData>
+		<SimpleData name="sdsId">{7897928B-3B2E-4E4C-927E-CA6C0F296A8D}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">95.3199429619286</SimpleData>
+		<SimpleData name="Shape_Area">364.986745874129</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1034363334785,34.6285580354045 -84.1033852146162,34.6285281905555 -84.1034002275867,34.6285106196661 -84.1033775976507,34.6284974073905 -84.103389567767,34.6284832038783 -84.1033970564635,34.6284743184072 -84.1034263766277,34.6284395276145 -84.1034336423633,34.6284309072583 -84.1035607102465,34.6282831051418 -84.1035785585579,34.6282935248177 -84.1035996633669,34.6283058462938 -84.1036330094752,34.6282668199554 -84.1036698682821,34.6282885134762 -84.1036906626541,34.6283004805248 -84.1034737493794,34.6285543411073 -84.1034508928487,34.6285409963636 -84.1034363334785,34.6285580354045</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">98</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765517.658735682</SimpleData>
+		<SimpleData name="coordinateY">3835627.5724186</SimpleData>
+		<SimpleData name="facilityNumber">16</SimpleData>
+		<SimpleData name="featureArea">91.2363579241297</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">POST OFFICE BRANCH</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">POST OFFICE BRANCH</SimpleData>
+		<SimpleData name="featurePerimeter">39.7192511666434</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">73072</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269145</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">75</SimpleData>
+		<SimpleData name="sdsId">{9E6E024A-6E87-4B96-B05B-3E40E0340FE9}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">39.7192511666434</SimpleData>
+		<SimpleData name="Shape_Area">91.2363579241297</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1036804458354,34.6282196923694 -84.1037007466308,34.6281960617775 -84.1037105429969,34.6281848785031 -84.103751818914,34.6281343117136 -84.1037565493021,34.6281282613362 -84.1037582212792,34.6281265595874 -84.1038236920444,34.6281639167801 -84.1037459166016,34.628257050506 -84.1036804458354,34.6282196923694</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">103</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765467.88065</SimpleData>
+		<SimpleData name="coordinateY">3835913.40075</SimpleData>
+		<SimpleData name="facilityNumber">Collect01</SimpleData>
+		<SimpleData name="featureArea">21.861465796857</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">18.9630656797206</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">80</SimpleData>
+		<SimpleData name="sdsId">{AD905F95-CD7A-44FC-ABAF-B725CB74F43E}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">18.9630656797206</SimpleData>
+		<SimpleData name="Shape_Area">21.861465796857</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1041751094941,34.6307610724897 -84.1042160403512,34.6307498096273 -84.1042350585612,34.6307970336552 -84.1041941276825,34.6308082965229 -84.1041751094941,34.6307610724897</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">104</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765360.787019064</SimpleData>
+		<SimpleData name="coordinateY">3835640.67970552</SimpleData>
+		<SimpleData name="facilityNumber">37</SimpleData>
+		<SimpleData name="featureArea">1225.84547093481</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">TRANSIENT UPH, ADVANCED SKILLS TRAINEES (AST)</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">TRANSIENT UPH, ADVANCED SKILLS TRAINEES (AST)</SimpleData>
+		<SimpleData name="featurePerimeter">202.992276379106</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">72122</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269156</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">81</SimpleData>
+		<SimpleData name="sdsId">{03D955E2-3ED3-4C80-8138-CD129F62236A}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">202.992276379106</SimpleData>
+		<SimpleData name="Shape_Area">1225.84547093481</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1055093372962,34.6287326945653 -84.1052570753575,34.6280285504486 -84.1052510295452,34.6280117762259 -84.1052676213561,34.6280074650644 -84.1053401764937,34.6279899509241 -84.1053490451966,34.6280147027779 -84.1054173901578,34.6279979701527 -84.10552018494,34.6282848619201 -84.1055513264171,34.6282772375359 -84.1055719000263,34.6283346551632 -84.1055374997519,34.628343077405 -84.1056537258252,34.6286674514187 -84.1055880705033,34.6286835260274 -84.1055979174687,34.6287110079685 -84.1055093372962,34.6287326945653</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">1</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765492.860098956</SimpleData>
+		<SimpleData name="coordinateY">3835781.36803459</SimpleData>
+		<SimpleData name="facilityNumber">20</SimpleData>
+		<SimpleData name="featureArea">360.211801695293</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">VEHICLE MAINTENANCE SHOP</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">TRANSIENT UPH, ADVANCED SKILLS TRAINEES (AST)</SimpleData>
+		<SimpleData name="featurePerimeter">87.9442021721943</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">21410</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269146</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">91</SimpleData>
+		<SimpleData name="sdsId">{78E67ED2-E746-432F-8617-FD54C56A66AA}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">87.9442021721943</SimpleData>
+		<SimpleData name="Shape_Area">360.211801695293</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1038570844969,34.6294599953425 -84.1039686732868,34.6294265978591 -84.1040914503347,34.6297068860356 -84.1039798611704,34.6297402845144 -84.1038570844969,34.6294599953425</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">2</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765477.1236</SimpleData>
+		<SimpleData name="coordinateY">3835850.54695</SimpleData>
+		<SimpleData name="facilityNumber">3</SimpleData>
+		<SimpleData name="featureArea">242.783537635878</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">ENGINEERING/HOUSING MAINTENANCE SHOP</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">ENGINEERING/HOUSING MAINTENANCE SHOP</SimpleData>
+		<SimpleData name="featurePerimeter">63.919688142923</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">21910</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268939</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">92</SimpleData>
+		<SimpleData name="sdsId">{AD839C58-4CC5-4314-A1DE-13C1FF75693A}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">63.919688142923</SimpleData>
+		<SimpleData name="Shape_Area">242.783537635878</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1040025985429,34.6301823644167 -84.1042063586785,34.6301315256353 -84.1042455231761,34.6302387776732 -84.1040417627921,34.6302896165075 -84.1040025985429,34.6301823644167</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">3</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765453.478049896</SimpleData>
+		<SimpleData name="coordinateY">3835879.39411677</SimpleData>
+		<SimpleData name="facilityNumber">7</SimpleData>
+		<SimpleData name="featureArea">111.231818124296</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">OPEN STORAGE AREA, INSTALLATION</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">OPEN STORAGE AREA, INSTALLATION</SimpleData>
+		<SimpleData name="featurePerimeter">46.2929693021234</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">SEMI</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">45210</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268943</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">93</SimpleData>
+		<SimpleData name="sdsId">{57831AE5-CEE3-4B8A-B9B2-EA78BF59AD5C}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">46.2929693021234</SimpleData>
+		<SimpleData name="Shape_Area">111.231818124296</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1043065857794,34.6304184068786 -84.1043760442336,34.6303968113269 -84.1044387443028,34.6305345999796 -84.104369285776,34.6305561946611 -84.1043065857794,34.6304184068786</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">4</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765444.273752264</SimpleData>
+		<SimpleData name="coordinateY">3835907.05126354</SimpleData>
+		<SimpleData name="facilityNumber">M0346</SimpleData>
+		<SimpleData name="featureArea">283.500169718608</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">VEHICLE STORAGE FACILITY, DEPOT LEVEL</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">82.9718774192067</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">44181</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269218</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">94</SimpleData>
+		<SimpleData name="sdsId">{07E0D794-BAA2-490D-85C4-043BA19ABE5F}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">82.9718774192067</SimpleData>
+		<SimpleData name="Shape_Area">283.500169718608</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1043599318748,34.6306015601209 -84.1044485349011,34.630575487913 -84.1045686530597,34.6308543973552 -84.1044800497925,34.6308804687359 -84.1043599318748,34.6306015601209</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">5</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765449.489876778</SimpleData>
+		<SimpleData name="coordinateY">3835888.45278481</SimpleData>
+		<SimpleData name="facilityNumber">collect02</SimpleData>
+		<SimpleData name="featureArea">8.42110447014998</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">11.7305653508991</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">95</SimpleData>
+		<SimpleData name="sdsId">{05B46DCF-338E-4A42-814F-9C90F82307F4}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">11.7305653508991</SimpleData>
+		<SimpleData name="Shape_Area">8.42110447014998</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1043911564887,34.6305544446129 -84.1044249683739,34.630542902561 -84.1044354094573,34.630563798737 -84.1044015964436,34.6305753416662 -84.1043911564887,34.6305544446129</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">6</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765470.7065</SimpleData>
+		<SimpleData name="coordinateY">3835892.20495</SimpleData>
+		<SimpleData name="facilityNumber">6</SimpleData>
+		<SimpleData name="featureArea">95.5344788908208</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">ENGINEERING/HOUSING MAINTENANCE SHOP</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">ENGINEERING/HOUSING MAINTENANCE SHOP</SimpleData>
+		<SimpleData name="featurePerimeter">42.8575033270274</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">SEMI</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">21910</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268942</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">96</SimpleData>
+		<SimpleData name="sdsId">{59010BA8-9735-4B08-9699-579803C99C99}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">42.8575033270274</SimpleData>
+		<SimpleData name="Shape_Area">95.5344788908208</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1041205469613,34.6305331057035 -84.1041853967692,34.6305137470671 -84.1042413185186,34.6306417398116 -84.1041764686195,34.6306610984731 -84.1041205469613,34.6305331057035</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">9</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765425.049710021</SimpleData>
+		<SimpleData name="coordinateY">3835605.71347557</SimpleData>
+		<SimpleData name="facilityNumber">74</SimpleData>
+		<SimpleData name="featureArea">83.7892173451879</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">GENERAL INSTRUCTION BUILDING</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">GENERAL INSTRUCTION BUILDING</SimpleData>
+		<SimpleData name="featurePerimeter">37.3747389070184</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">17120</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268987</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">99</SimpleData>
+		<SimpleData name="sdsId">{206F818F-7D50-4483-B6D7-2F7E69A8234B}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">37.3747389070184</SimpleData>
+		<SimpleData name="Shape_Area">83.7892173451879</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1046946302061,34.6280166060502 -84.1047419719331,34.6279622051803 -84.1048182859181,34.6280073595553 -84.1048415154117,34.6280213961571 -84.1048326085777,34.6280316514964 -84.1047941737105,34.6280757970669 -84.1046946302061,34.6280166060502</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">10</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765427.2717</SimpleData>
+		<SimpleData name="coordinateY">3835619.96315</SimpleData>
+		<SimpleData name="facilityNumber"></SimpleData>
+		<SimpleData name="featureArea">15.6334079733043</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">17.182497716097</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">100</SimpleData>
+		<SimpleData name="sdsId">{B126EEE3-87DB-478F-A9A8-A2B3A7DF4D52}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">17.182497716097</SimpleData>
+		<SimpleData name="Shape_Area">15.6334079733043</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.104703929579,34.6281455452627 -84.1047645932955,34.6281259660261 -84.1047749666252,34.628147927808 -84.1047143028943,34.628167507049 -84.104703929579,34.6281455452627</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">11</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765399.114147586</SimpleData>
+		<SimpleData name="coordinateY">3835596.99822506</SimpleData>
+		<SimpleData name="facilityNumber">63</SimpleData>
+		<SimpleData name="featureArea">138.298282277675</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">TRANSIENT UPH, ADVANCED SKILLS TRAINEES (AST)</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">TRANSIENT UPH, ADVANCED SKILLS TRAINEES (AST)</SimpleData>
+		<SimpleData name="featurePerimeter">48.9877223773954</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">72122</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268985</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">101</SimpleData>
+		<SimpleData name="sdsId">{66C3A43D-C753-43F1-8371-17011615CB59}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">48.9877223773954</SimpleData>
+		<SimpleData name="Shape_Area">138.298282277675</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1049836046614,34.6278903392514 -84.1050755675587,34.6278681871254 -84.1051234624925,34.6280040490479 -84.1050314994839,34.6280262003021 -84.1050133747925,34.6279751387672 -84.1050039821051,34.6279496533338 -84.1049836046614,34.6278903392514</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">12</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765387.720442844</SimpleData>
+		<SimpleData name="coordinateY">3835590.69294772</SimpleData>
+		<SimpleData name="facilityNumber">38</SimpleData>
+		<SimpleData name="featureArea">128.131158743272</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">ARMS BUILDING FOR BATTALION AND ABOVE</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">UNIT SMALL ARMS AMMUNITIOIN STORAGE, INSTALLATION</SimpleData>
+		<SimpleData name="featurePerimeter">45.358248642487</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">44223</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269157</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">102</SimpleData>
+		<SimpleData name="sdsId">{90C56A21-27FC-4E4D-8E53-500CE2BA3A14}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">45.358248642487</SimpleData>
+		<SimpleData name="Shape_Area">128.131158743272</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1051046177965,34.627856285665 -84.1051330654974,34.6278492635249 -84.1051511754347,34.6278446945857 -84.1051874038018,34.6278360337354 -84.1052036013041,34.6278319286478 -84.1052180375864,34.627828548807 -84.1052546109687,34.6279307372046 -84.1052483427202,34.6279322513835 -84.1052173327123,34.6279392965186 -84.1051411921362,34.6279584741158 -84.1051046177965,34.627856285665</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">13</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765389.019811002</SimpleData>
+		<SimpleData name="coordinateY">3835629.43915606</SimpleData>
+		<SimpleData name="facilityNumber">35</SimpleData>
+		<SimpleData name="featureArea">100.953574067121</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">UPH LAUNDRY BUILDING, DETACHED</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">UPH LAUNDRY BUILDING, DETACHED</SimpleData>
+		<SimpleData name="featurePerimeter">47.2027188256831</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">72310</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269154</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">103</SimpleData>
+		<SimpleData name="sdsId">{1B7BC566-C6D5-44F6-8B2A-AD153B7C590B}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">47.2027188256831</SimpleData>
+		<SimpleData name="Shape_Area">100.953574067121</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1051771027823,34.6283153386813 -84.1051739854278,34.6283065473054 -84.1051641495109,34.6283089295051 -84.1051607958226,34.628299470896 -84.1051351172809,34.628305690777 -84.1050977823569,34.628201224477 -84.1050968678641,34.6281977937028 -84.1051210045622,34.6281919473372 -84.1051179618777,34.6281843646932 -84.105117132539,34.6281810251792 -84.1051288467903,34.6281781873285 -84.1051256758061,34.6281692450472 -84.1051600476307,34.6281609186938 -84.1052118100807,34.6283069310458 -84.1051771027823,34.6283153386813</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">14</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765376.767959077</SimpleData>
+		<SimpleData name="coordinateY">3835667.15447971</SimpleData>
+		<SimpleData name="facilityNumber">36</SimpleData>
+		<SimpleData name="featureArea">102.987648184155</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">UPH LAUNDRY BUILDING, DETACHED</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">UPH LAUNDRY BUILDING, DETACHED</SimpleData>
+		<SimpleData name="featurePerimeter">47.3870471728019</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">72310</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269155</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">104</SimpleData>
+		<SimpleData name="sdsId">{33C6B405-9185-4DCE-A610-7901617F1583}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">47.3870471728019</SimpleData>
+		<SimpleData name="Shape_Area">102.987648184155</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1052993440926,34.6286577024707 -84.105296572748,34.6286496223993 -84.1052862843649,34.6286520326206 -84.1052828378118,34.6286419823006 -84.1052549003886,34.6286485280359 -84.1052177529855,34.6285401965616 -84.1052448460101,34.6285338489137 -84.1052414678521,34.6285239958185 -84.1052500224445,34.6285219915082 -84.1052468838854,34.6285128372721 -84.1052837276761,34.6285042045397 -84.1053336098013,34.6286496737156 -84.1052993440926,34.6286577024707</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">15</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765398.888825117</SimpleData>
+		<SimpleData name="coordinateY">3835672.60805035</SimpleData>
+		<SimpleData name="facilityNumber">39</SimpleData>
+		<SimpleData name="featureArea">247.656294799761</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">ADMINISTRATION BUILDING, GENERAL PURPOSE</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">ADMINISTRATION BUILDING, GENERAL PURPOSE</SimpleData>
+		<SimpleData name="featurePerimeter">71.7038700870056</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">61050</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269158</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">105</SimpleData>
+		<SimpleData name="sdsId">{7FA2ED36-85F5-42AF-B75F-47FBEDEBD64B}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">71.7038700870056</SimpleData>
+		<SimpleData name="Shape_Area">247.656294799761</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1050527181582,34.6287417416968 -84.1050467896908,34.6287278655128 -84.1050196880276,34.6287357768184 -84.1049337028475,34.6285345183895 -84.105028647165,34.6285068016608 -84.1050671544849,34.628596929496 -84.1050804348446,34.6285930525945 -84.1051276800898,34.628703634961 -84.1051218270248,34.6287053437783 -84.1051279905249,34.6287197681777 -84.1050527181582,34.6287417416968</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">20</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765357.61005</SimpleData>
+		<SimpleData name="coordinateY">3835784.69215</SimpleData>
+		<SimpleData name="facilityNumber">Collect04</SimpleData>
+		<SimpleData name="featureArea">25.6557699002366</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">20.3150157687732</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">110</SimpleData>
+		<SimpleData name="sdsId">{FED3C0F9-0C9D-4AF2-B459-93D7D193A941}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">20.3150157687732</SimpleData>
+		<SimpleData name="Shape_Area">25.6557699002366</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1054086664537,34.6296409981893 -84.1054501701379,34.6296160591071 -84.1054851024249,34.6296557800891 -84.1054435987296,34.6296807191826 -84.1054086664537,34.6296409981893</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">115</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765484.336696133</SimpleData>
+		<SimpleData name="coordinateY">3835497.30412757</SimpleData>
+		<SimpleData name="facilityNumber">34</SimpleData>
+		<SimpleData name="featureArea">665.785978466277</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">COMPANY HEADQUARTERS BUIDLING</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">COMPANY HEADQUARTERS BUIDLING</SimpleData>
+		<SimpleData name="featurePerimeter">177.579329596064</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">14185</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">269153</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">115</SimpleData>
+		<SimpleData name="sdsId">{5616AB75-7E57-4E59-A965-FE4631DBFEB3}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">177.579329596064</SimpleData>
+		<SimpleData name="Shape_Area">665.785978466277</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1041000480085,34.6272091880866 -84.1039253163703,34.6269393762046 -84.1040082693835,34.6269026687721 -84.104144838999,34.6271135523062 -84.1042505764894,34.6270667614197 -84.1041133702006,34.6268548956803 -84.104142830689,34.6268412870453 -84.1041951768044,34.6268186953991 -84.1043705456219,34.6270894883408 -84.1043368247005,34.6271046336276 -84.1043237404262,34.6271110624369 -84.1043062273822,34.6271175671986 -84.1041798746142,34.6271744334788 -84.1041497104084,34.6271877360526 -84.1041322205146,34.6271950480812 -84.1041000480085,34.6272091880866</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">118</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765700.230303355</SimpleData>
+		<SimpleData name="coordinateY">3835629.91740582</SimpleData>
+		<SimpleData name="facilityNumber">1</SimpleData>
+		<SimpleData name="featureArea">206.210177456812</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">ARMY LODGING</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">ARMY LODGING</SimpleData>
+		<SimpleData name="featurePerimeter">60.3901092279425</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">72010</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268937</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">118</SimpleData>
+		<SimpleData name="sdsId">{89D69B62-B13A-44A0-8560-7C235862A3D5}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">60.3901092279425</SimpleData>
+		<SimpleData name="Shape_Area">206.210177456812</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1016454170916,34.6281779831975 -84.1016910217882,34.6280927778985 -84.1017270273877,34.628105945307 -84.1017328763826,34.6280950171631 -84.1017426203099,34.6280981937164 -84.1017595564122,34.628105050407 -84.1018188523377,34.6281263252774 -84.1018374270067,34.6281331623328 -84.1018433105267,34.6281354042797 -84.1018383508456,34.6281444985211 -84.1018373821554,34.6281464828762 -84.1018756177627,34.6281604658458 -84.1018300947431,34.6282455217265 -84.1016454170916,34.6281779831975</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">119</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765586.102754051</SimpleData>
+		<SimpleData name="coordinateY">3835640.04271102</SimpleData>
+		<SimpleData name="facilityNumber">12</SimpleData>
+		<SimpleData name="featureArea">263.162599127732</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">ADMINISTRATION BUILDING, GENERAL PURPOSE</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">ADMINISTRATION BUILDING, GENERAL PURPOSE</SimpleData>
+		<SimpleData name="featurePerimeter">77.8431266151944</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">61050</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268946</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">119</SimpleData>
+		<SimpleData name="sdsId">{3451FD73-CBC5-4DA9-BF68-C482F880333E}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">77.8431266151944</SimpleData>
+		<SimpleData name="Shape_Area">263.162599127732</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1028407145845,34.6282401118489 -84.1028636269887,34.628213323728 -84.1028712462476,34.6282044161547 -84.1028954328248,34.6281761394774 -84.1030272169293,34.6282521610488 -84.1030391447582,34.6282598305513 -84.1031644403431,34.628333359545 -84.1031403699726,34.6283616823053 -84.1031338891196,34.6283689926536 -84.1031238733703,34.62838102518 -84.1031097232781,34.628397332067 -84.10308472991,34.6283822526719 -84.1028407145845,34.6282401118489</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">121</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765370.91015</SimpleData>
+		<SimpleData name="coordinateY">3835568.16325</SimpleData>
+		<SimpleData name="facilityNumber"></SimpleData>
+		<SimpleData name="featureArea">3.33125941838046</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">7.30074729868096</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">temporary</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">121</SimpleData>
+		<SimpleData name="sdsId">{69C11CFB-7A4C-4605-9C3C-0B4348E71DFC}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">7.30074729868096</SimpleData>
+		<SimpleData name="Shape_Area">3.33125941838046</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1053558224055,34.6276963787423 -84.1053677317444,34.6276832831882 -84.1053836947438,34.6276932017216 -84.1053717854058,34.6277062972774 -84.1053558224055,34.6276963787423</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">122</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765369.042845616</SimpleData>
+		<SimpleData name="coordinateY">3835569.80668249</SimpleData>
+		<SimpleData name="facilityNumber"></SimpleData>
+		<SimpleData name="featureArea">3.27494924484918</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">7.24442973052353</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">temporary</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">122</SimpleData>
+		<SimpleData name="sdsId">{321BBDCC-43AF-4226-AA51-46F05F298B1B}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">7.24442973052353</SimpleData>
+		<SimpleData name="Shape_Area">3.27494924484918</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1053758027633,34.6277119407415 -84.105386247012,34.6276988626689 -84.1054033759897,34.6277082085678 -84.105392931711,34.6277212875426 -84.1053758027633,34.6277119407415</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">123</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765480.3251</SimpleData>
+		<SimpleData name="coordinateY">3835435.6787</SimpleData>
+		<SimpleData name="facilityNumber"></SimpleData>
+		<SimpleData name="featureArea">7.81965800263733</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">11.2224020302604</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">123</SimpleData>
+		<SimpleData name="sdsId">{017DFEA2-8DC0-436C-9F85-80F2CBCE9882}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">11.2224020302604</SimpleData>
+		<SimpleData name="Shape_Area">7.81965800263733</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1042016777104,34.6264625841262 -84.1042290456951,34.626457311366 -84.1042365493418,34.6264839264793 -84.1042091813486,34.6264891992408 -84.1042016777104,34.6264625841262</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">128</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765470.489977551</SimpleData>
+		<SimpleData name="coordinateY">3835171.18557409</SimpleData>
+		<SimpleData name="facilityNumber">126</SimpleData>
+		<SimpleData name="featureArea">50.0841700369213</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">SEWAGE /WASTE TREATMENT BUILDING</SimpleData>
+		<SimpleData name="featureHeight">0</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featurePerimeter">29.5324650393854</SimpleData>
+		<SimpleData name="INSPC_DATE_BD">0</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="operationalStatus">PERMANENT</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">89131</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268990</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">128</SimpleData>
+		<SimpleData name="sdsId">{65CC4769-EBFE-410B-BCFB-E97276B46F59}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">29.5324650393854</SimpleData>
+		<SimpleData name="Shape_Area">50.0841700369213</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1043903674041,34.6241293766838 -84.1043902841571,34.6241109142604 -84.1043667560988,34.6241109862538 -84.1043665364537,34.6240624178049 -84.1044463934076,34.6240621706202 -84.1044466963275,34.6241292023959 -84.1043903674041,34.6241293766838</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="BDTABLEIDFK">129</SimpleData>
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765422.220855068</SimpleData>
+		<SimpleData name="coordinateY">3835499.75457426</SimpleData>
+		<SimpleData name="facilityNumber">61</SimpleData>
+		<SimpleData name="featureArea">1231.96254240271</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">ENLISTED UNACCOMPANIED PERSONNEL HOUSING</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">ENLISTED UNACCOMPANIED PERSONNEL HOUSING</SimpleData>
+		<SimpleData name="featurePerimeter">186.209764103001</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">72111</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">268983</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">129</SimpleData>
+		<SimpleData name="sdsId">{C50E0E16-F672-41CD-944D-F9F8DDB4ABC0}</SimpleData>
+		<SimpleData name="SOURCENAME">STRUCTURE_EXISTING_AREA</SimpleData>
+		<SimpleData name="Shape_Length">186.209764103001</SimpleData>
+		<SimpleData name="Shape_Area">1231.96254240271</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.105040455225,34.6272920074626 -84.105027571948,34.627266462553 -84.1050086007616,34.6272735385134 -84.1049727879327,34.6272853406122 -84.1049642871901,34.6272684846259 -84.1049600190365,34.6272600192532 -84.1049289131784,34.6272707379077 -84.1049254790378,34.6272647558408 -84.104831295578,34.6270776950775 -84.1048240831047,34.6270628662614 -84.1048023005423,34.6270701999056 -84.1045714387478,34.627149924642 -84.104543584428,34.6270946919238 -84.1045151207836,34.6271044997456 -84.1044839562767,34.6270427019795 -84.1045117411573,34.6270331277232 -84.1044984347287,34.6270067434313 -84.1049208468749,34.6268611841931 -84.1051236532208,34.6272633382631 -84.105040455225,34.6272920074626</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765478.08865256</SimpleData>
+		<SimpleData name="coordinateY">3835359.86927062</SimpleData>
+		<SimpleData name="facilityNumber">125</SimpleData>
+		<SimpleData name="featureArea">170.810656611047</SimpleData>
+		<SimpleData name="featureAreaUom">Square metres.</SimpleData>
+		<SimpleData name="featureDescription">SEWAGE /WASTE TREATMENT BUILDING</SimpleData>
+		<SimpleData name="featureHeightUom">tbd</SimpleData>
+		<SimpleData name="featureName">SEWAGE /WASTE TREATMENT BUILDING</SimpleData>
+		<SimpleData name="featurePerimeter">26.8845795411189</SimpleData>
+		<SimpleData name="featurePerimeterUom">M</SimpleData>
+		<SimpleData name="installationId">13027</SimpleData>
+		<SimpleData name="last_edited_date">2019/04/08 16:39:09</SimpleData>
+		<SimpleData name="last_edited_user">JASON.A.HELLUMS.MIL</SimpleData>
+		<SimpleData name="materialType">PERM</SimpleData>
+		<SimpleData name="operationalStatus">inService</SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">89131</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">1290376</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_FCName">Building</SimpleData>
+		<SimpleData name="SDSFIE_PRE_MIG_OBJECTID">130</SimpleData>
+		<SimpleData name="sdsId">{0D07BA2B-0CD9-4333-A4D7-D4980C4E0A37}</SimpleData>
+		<SimpleData name="Shape_Length">57.370929810729</SimpleData>
+		<SimpleData name="Shape_Area">170.810656611047</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1043292645356,34.6258586564469 -84.1041908112458,34.6258577519419 -84.1041899998069,34.6257981094052 -84.1042275995776,34.6257954251599 -84.1042248027696,34.6257127229965 -84.1043215671636,34.6257099400246 -84.1043292645356,34.6258586564469</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765533.935380594</SimpleData>
+		<SimpleData name="coordinateY">3835737.51173917</SimpleData>
+		<SimpleData name="facilityNumber">17</SimpleData>
+		<SimpleData name="featureArea">143.109565149538</SimpleData>
+		<SimpleData name="featureDescription">FUELING/POL/WASH SUPPORT BUILDING</SimpleData>
+		<SimpleData name="installationId"></SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="rpaPredomCurrentUseCatCode">14165</SimpleData>
+		<SimpleData name="rpInterest">FEE</SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid">1315533</SimpleData>
+		<SimpleData name="sdsId">{00000000-0000-0000-0000-000000000000}</SimpleData>
+		<SimpleData name="Shape_Length">48.9362346310887</SimpleData>
+		<SimpleData name="Shape_Area">143.109565149538</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.103614794198,34.6292284738549 -84.1035141468876,34.6292544241921 -84.1034661229499,34.6291271587843 -84.103566771205,34.6291012085053 -84.103614794198,34.6292284738549</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Building_A">
+		<SimpleData name="buildingIdpk"></SimpleData>
+		<SimpleData name="coordinateX">765462.92475</SimpleData>
+		<SimpleData name="coordinateY">3835924.4373</SimpleData>
+		<SimpleData name="facilityNumber">Collect03</SimpleData>
+		<SimpleData name="featureArea">32.4755324970438</SimpleData>
+		<SimpleData name="installationId"></SimpleData>
+		<SimpleData name="materialType"></SimpleData>
+		<SimpleData name="rpsuid">4632</SimpleData>
+		<SimpleData name="rpuid"></SimpleData>
+		<SimpleData name="sdsId">{00000000-0000-0000-0000-000000000000}</SimpleData>
+		<SimpleData name="Shape_Length">25.3499784331592</SimpleData>
+		<SimpleData name="Shape_Area">32.4755324970438</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-84.1042879484423,34.6309147875826 -84.1042505864743,34.6309236113812 -84.1042233044847,34.6308446847771 -84.1042606664189,34.6308358609851 -84.1042879484423,34.6309147875826</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
